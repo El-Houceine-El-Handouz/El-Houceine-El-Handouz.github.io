@@ -44,3 +44,8 @@ ul li{
     font-size: 1.3rem;
     font-weight: bold;
 }
+
+.different__parties{
+    display: flex;
+    margin: 15% 20%;
+}
